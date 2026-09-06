@@ -1,3 +1,23 @@
+NOMBRE DEL PROYECTO:
+
+Tienda de Electrodomésticos
+
+INTEGRANTES:
+
+Adrián de Jesús Jacinto Vega    25-4552-2024
+Abner Danilo Morales Fuentes    27-1354-2025
+David Enrique Gil Martínez      27-1352-2025
+
+ENTIDAD ELEGIDA:
+
+Producto
+
+INSTRUCCIONES PARA EJECUCION:
+
+Utilizando el IDE IntelliJ IDEA, abra la carpeta del proyecto y presione las teclas SHIFT + F10 para iniciar la ejecucion
+
+USO DE INTELIGENCIA ARTIFICIAL:
+
 El uso de inteligencia artificial en la aplicacion se llevo a cabo en 3 puntos, el primero de ellos es en el metodo de listar los productos
 de una manera en la cual orientarnos para saber como devolver una coleecion de objetos sin imprimir o retornar nada
 por ello fue necesario importar las siguientes librerias
